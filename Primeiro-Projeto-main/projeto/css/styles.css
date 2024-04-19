@@ -1,0 +1,70 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(99, 123, 204);
+    background-image: url(background/download.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+
+
+
+h1{
+    text-align: center;
+}
+header{
+        background-image: url(background/head.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border: 6px solid black;
+        
+}
+    
+
+section{
+    text-align: left;
+}
+.subtitle2{
+    text-align: end;
+    border-bottom: 2px solid #000000;
+    font-style: italic;
+}
+h1.sub{
+    border-bottom: 2px solid #000000;
+    font-style: italic;
+    border-radius: 8px;
+}
+#bhead{
+background:    #7194e8;
+border:        4px solid #000000;
+border-radius: 11px;
+padding:       8px 20px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/1 "Open Sans", sans-serif;
+text-align:    left;
+}
+a.bfoot{
+background:    #1d1a1a;
+background:    linear-gradient(#bc4949, #403737 50%, #697cd6 50%, #697cdb);
+border-radius: 1000px;
+padding:       10px 25px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 20px/1 "Open Sans", sans-serif;
+text-align:    left;
+}
+a{
+    background:    #1d1a1a;
+background:    linear-gradient(#70b3f3, #3c3333 50%, #5a6aa1 50%, #7699de);
+border-radius: 1000px;
+padding:       10px 25px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 20px/1 "Open Sans", sans-serif;
+text-align: left;
+}
